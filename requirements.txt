@@ -3,3 +3,9 @@ streamlit
 opencv-python
 plotly
 black
+autopep8
+autoflake
+docformatter
+pyformat
+yapf
+isort
